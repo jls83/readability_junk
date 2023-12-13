@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mozilla/readability": "^0.4.4",
+    "jsdom": "^23.0.1"
+  },
+  "scripts": {
+    "dev": "node main.js"
+  }
+}
